@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm a Software Engineer 👋
 
-<!--
-**fahrizalm14/fahrizalm14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems, web applications, and automation tools.
+Focused on clean architecture, scalability, and production-ready code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+- Backend architecture & API development
+- Web application development
+- Automation & background processing
+- System integration & reliability
+
+---
+
+## Tech Stack
+- Backend: PHP, Node.js, Golang
+- Frontend: React, Next.js
+- Database: PostgreSQL, MySQL
+- Infrastructure: Docker, Linux
+- Tools: Git, CI/CD
+
+---
+
+## Principles
+- Build for real-world usage
+- Keep systems simple and maintainable
+- Reliability over unnecessary complexity
+
+---
+
+## Contact
+📧 Email: emhafahrizal@gmail.com
+
+🌐 Website: [https://fahrizalm14.netlify.app](https://fahrizalm14.netlify.app)
